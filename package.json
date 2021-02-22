@@ -7,6 +7,6 @@
   },
   "author": "",
   "dependencies": {
-    "durable-functions": "^1.4.5"
+    "durable-functions": "^1.4.6"
   }
 }
